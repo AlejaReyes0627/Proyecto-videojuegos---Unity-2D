@@ -18298,12 +18298,12 @@ TextureImporter:
       sprites_450: -1978784052
       sprites_267: -1270294228
       sprites_557: -1337430040
+      sprites_533: 683474935
       sprites_563: 1485090808
       sprites_14: -913683289
       sprites_640: 1435180355
       sprites_335: 1040937197
       sprites_398: -1684212790
-      sprites_533: 683474935
       sprites_512: 1626181939
       sprites_575: 1353617347
       sprites_783: 910736451
@@ -18355,12 +18355,10 @@ TextureImporter:
       sprites_587: -884439457
       sprites_112: 622847250
       sprites_306: 1654167435
-      sprites_680: 949215426
-      sprites_233: -922399327
-      sprites_539: 1976148266
-      sprites_667: 472691554
-      sprites_812: 896040508
       sprites_704: -320359934
+      sprites_233: -922399327
+      sprites_667: 472691554
+      sprites_680: 949215426
       sprites_441: 1157358385
       sprites_774: 566906286
       sprites_606: -582567696
@@ -18371,12 +18369,14 @@ TextureImporter:
       sprites_300: -665008376
       sprites_592: -2054944409
       sprites_598: -750794143
+      sprites_539: 1976148266
       sprites_479: -997217974
       sprites_674: 619712181
       sprites_258: 1099204265
       sprites_798: 896428287
       sprites_471: -747614954
       sprites_645: -425508127
+      sprites_812: 896040508
       sprites_686: 302485578
       sprites_802: 1706647612
       sprites_198: 1644061474
@@ -18492,8 +18492,8 @@ TextureImporter:
       sprites_52: 364791234
       sprites_818: -1508976973
       sprites_127: 1694348355
-      sprites_369: 1723599806
       sprites_856: -1714174494
+      sprites_369: 1723599806
       sprites_104: -1909735546
       sprites_668: -376407578
       sprites_117: 1059077899
@@ -18503,12 +18503,12 @@ TextureImporter:
       sprites_218: -1372435709
       sprites_543: 178587664
       sprites_365: 1857371051
-      sprites_453: -1447078936
-      sprites_800: 1752681650
-      sprites_851: 210043654
       sprites_835: 278063353
+      sprites_800: 1752681650
+      sprites_453: -1447078936
       sprites_653: -1802993281
       sprites_713: 1296369651
+      sprites_851: 210043654
       sprites_807: 28443937
       sprites_648: -906958979
       sprites_520: -1166810561
@@ -18518,8 +18518,8 @@ TextureImporter:
       sprites_136: -294911740
       sprites_277: -1821128195
       sprites_465: 1214539072
-      sprites_582: 1658152780
       sprites_733: 1801673450
+      sprites_582: 1658152780
       sprites_778: -2139012904
       sprites_766: 160697713
       sprites_544: -133617147
@@ -18546,8 +18546,8 @@ TextureImporter:
       sprites_83: 2012934673
       sprites_429: 1510425738
       sprites_50: -2132694354
-      sprites_442: 2048827185
       sprites_589: 1260847818
+      sprites_442: 2048827185
       sprites_489: 889878334
       sprites_367: -843088192
       sprites_676: 639851647
@@ -18665,12 +18665,12 @@ TextureImporter:
       sprites_26: -1449016778
       sprites_86: 1456895093
       sprites_626: -500380929
-      sprites_609: -1546722358
+      sprites_719: -837443245
       sprites_317: 257299630
       sprites_44: 1361993987
       sprites_419: 1327199637
-      sprites_719: -837443245
       sprites_743: -2048999499
+      sprites_609: -1546722358
       sprites_364: -1664033573
       sprites_488: 1076247442
       sprites_823: -125431479
@@ -18715,19 +18715,19 @@ TextureImporter:
       sprites_96: -1688093850
       sprites_521: -309688230
       sprites_693: -116204270
-      sprites_362: -2143365726
-      sprites_249: -1981648687
       sprites_854: -668257156
-      sprites_714: 330526222
+      sprites_249: -1981648687
+      sprites_362: -2143365726
       sprites_474: -1394328850
+      sprites_714: 330526222
       sprites_133: -1088312170
       sprites_314: 97149627
       sprites_855: -723245948
       sprites_80: 199213471
       sprites_185: 339396886
       sprites_65: 911954141
-      sprites_128: 671895435
       sprites_355: 102294687
+      sprites_128: 671895435
       sprites_73: 1368531840
       sprites_319: -1241264165
       sprites_361: 9275346
@@ -18745,12 +18745,12 @@ TextureImporter:
       sprites_49: -1050583123
       sprites_787: 1986793508
       sprites_627: -896037613
-      sprites_590: 1370091960
       sprites_746: 959049044
+      sprites_590: 1370091960
       sprites_762: 613637990
       sprites_260: 1855066006
-      sprites_487: 169090260
       sprites_698: -187372575
+      sprites_487: 169090260
       sprites_553: -1048516572
       sprites_289: 1467611561
       sprites_745: 1677536207
@@ -18782,14 +18782,14 @@ TextureImporter:
       sprites_68: -1624042528
       sprites_552: -1740227385
       sprites_463: -1730193938
+      sprites_632: 71942099
       sprites_614: 141369158
       sprites_154: 1355201578
-      sprites_632: 71942099
       sprites_821: 1417789343
       sprites_392: -1037449946
-      sprites_497: -1668888299
-      sprites_326: -30260950
       sprites_649: -23950114
+      sprites_326: -30260950
+      sprites_497: -1668888299
       sprites_27: -250032850
       sprites_663: -1057998627
       sprites_41: 1691190437
@@ -18804,8 +18804,8 @@ TextureImporter:
       sprites_772: 262608905
       sprites_790: 915658256
       sprites_74: -334248773
-      sprites_109: -304869973
       sprites_336: 451819482
+      sprites_109: -304869973
       sprites_401: 1012321332
       sprites_144: -1691101940
       sprites_696: -1427156484
@@ -18853,8 +18853,8 @@ TextureImporter:
       sprites_124: -1512658328
       sprites_191: 1870923055
       sprites_8: 1674382494
-      sprites_607: 1319664836
       sprites_748: 1328907112
+      sprites_607: 1319664836
       sprites_758: 1037046512
       sprites_629: 476818952
       sprites_747: 1867293493
@@ -18871,8 +18871,8 @@ TextureImporter:
       sprites_378: 1452302726
       sprites_850: 1872889820
       sprites_89: 1856293501
-      sprites_93: 1154786873
       sprites_795: -739826772
+      sprites_93: 1154786873
       sprites_327: -1439143616
       sprites_181: -801731517
       sprites_394: 315057203
@@ -18880,10 +18880,10 @@ TextureImporter:
       sprites_652: 1764801265
       sprites_522: -1191286349
       sprites_526: -141222458
-      sprites_584: 2141557027
+      sprites_810: -746293596
       sprites_761: -788129022
       sprites_206: 731435438
-      sprites_810: -746293596
+      sprites_584: 2141557027
       sprites_793: -828374477
       sprites_190: -1881496255
       sprites_81: 1818665598
@@ -18897,8 +18897,8 @@ TextureImporter:
       sprites_834: 873153762
       sprites_302: 1538099478
       sprites_45: -1864545762
-      sprites_110: 1969860219
       sprites_205: 623635938
+      sprites_110: 1969860219
       sprites_276: -1682807934
       sprites_796: -1847198651
       sprites_716: -450034600
