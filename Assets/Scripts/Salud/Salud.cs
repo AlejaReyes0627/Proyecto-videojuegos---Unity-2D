@@ -30,7 +30,7 @@ public class Salud : MonoBehaviour
             if (!dead)
             {
                 anim.SetTrigger("die");
-                Application.LoadLevel("Primer Nivel");
+                Application.LoadLevel("MenuInicial");
                 GetComponent<PPrincipalNivel3>().enabled = false;
                 dead = true;
             }
