@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Salud : MonoBehaviour
 {
@@ -29,6 +30,7 @@ public class Salud : MonoBehaviour
             if (!dead)
             {
                 anim.SetTrigger("die");
+                Application.LoadLevel("Primer Nivel");
                 GetComponent<PPrincipalNivel3>().enabled = false;
                 dead = true;
             }

@@ -8,7 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MenuInicial.unity
     guid: daef95650ef06bc4e9b9ce12cbc47a42
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Primer nivel.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Primer Nivel.unity
+    guid: b1d33ea32cca6cd46b3601cb4a87d1f7
+  - enabled: 1
+    path: Assets/Scenes/Tercer nivel Parkour.unity
+    guid: bd3dbee8f7f9b2e41aac7a13dab65f6f
   m_configObjects: {}
